@@ -1,0 +1,10 @@
+/train/
+**/__pycache__/
+/.idea/
+/tmp/
+.*
+!.gitignore
+/scripts/
+**/.pytest_cache/
+/*.txt
+test.py
